@@ -1,0 +1,11 @@
+.topBanner {
+  background-color: red;
+  text-align: center;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 100px;
+  position: fixed;
+  color: yellow;
+  height: 120px;
+  width: 80%;
+  float: left;
+}
